@@ -1,5 +1,5 @@
 
-<img width="592" alt="screen shot 2018-09-12 at 10 35 58" src="https://user-images.githubusercontent.com/36439765/45412666-8b588d80-b677-11e8-8bfa-273747258fd9.png">
+# Lemin
 
 Summary: This project is meant to make you code an ant farm manager.
 
